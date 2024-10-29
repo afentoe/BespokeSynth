@@ -670,6 +670,8 @@ target_sources(BespokeSynth PRIVATE
     TremoloEffect.h
     TriggerDetector.cpp
     TriggerDetector.h
+    TuringSequencer.cpp
+    TuringSequencer.h
     UIControlMacros.h
     UIGrid.cpp
     UIGrid.h
